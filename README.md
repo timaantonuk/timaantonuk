@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End developer & Designer.</h3>
 
 <h3 align="center">
-  <img src="[URL_ВАШЕГО_GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4MHU4YWQ0MWxtNDd2YjE5cTIzN3NwaGZlanZsNWM3NHE5NmN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.gif)" alt="profile gif" width="800"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4MHU4YWQ0MWxtNDd2YjE5cTIzN3NwaGZlanZsNWM3NHE5NmN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.gif)" alt="profile gif" width="800"/>
 </h3>
 
 
