@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://tymofiiantoniuk.vercel.app/](https://tymofiiantoniuk.vercel.app/)
 
-- 🥵 CodeWars profile [https://www.codewars.com/users/timaantonuk](https://www.codewars.com/users/timaantonuk)
-
 - 📫 How to reach me **tima.antonuk2@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tifomeypng/](https://www.linkedin.com/in/tifomeypng/)
+
+- 🥵 CodeWars profile [https://www.codewars.com/users/timaantonuk](https://www.codewars.com/users/timaantonuk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
