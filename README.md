@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End developer & Designer.</h3>
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5amc5amZoNWI1ODZmbDNsdnBubG83ZG9qNzRkb3NqYzFxdG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.webp" alt="profile gif" width="500"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5amc5amZoNWI1ODZmbDNsdnBubG83ZG9qNzRkb3NqYzFxdG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.webp" alt="profile gif" width="1000"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timaantonuk" alt="timaantonuk" /></a> </p>
