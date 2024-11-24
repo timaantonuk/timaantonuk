@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tymofii Antoniuk</h1>
 <h3 align="center">A passionate Front-End developer & Designer.</h3>
 
-<h3 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4MHU4YWQ0MWxtNDd2YjE5cTIzN3NwaGZlanZsNWM3NHE5NmN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.gif)" alt="profile gif" width="800"/>
-</h3>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI4MHU4YWQ0MWxtNDd2YjE5cTIzN3NwaGZlanZsNWM3NHE5NmN1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lGrJXE67NgthqhAHQw/giphy.gif)" alt="profile gif" width="500"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timaantonuk" alt="timaantonuk" /></a> </p>
